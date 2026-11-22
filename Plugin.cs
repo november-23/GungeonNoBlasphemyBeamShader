@@ -12,7 +12,7 @@ namespace GungeonNoBlasphemyBeamShader
     {
         public const string GUID = "spapi.etg.noblasphemybeamshader";
         public const string NAME = "No Blasphemy Beam Shader";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.1";
 
         public void Awake()
         {
